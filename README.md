@@ -1,2 +1,2 @@
 # Modding-Assets
-A place for storing all Stellaris related assets.
+A place for storing all Stellaris related icon assets.
